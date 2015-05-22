@@ -1,0 +1,58 @@
+## RIM Java Development Environment
+# RIM Project file
+AlwaysBuild=0
+[AlxImports
+]
+AutoRestart=0
+[ClassProtection
+]
+[CustomBuildFiles
+]
+[CustomBuildRules
+]
+[DefFiles
+]
+[DependsOn
+]
+Description=Galactic Blast Demo
+ExcludeFromBuildAll=0
+[Files
+enemygame.png
+explosiongame.png
+GalacticBlast.java
+GamePlay.java
+gfx.java
+health.png
+herogame.png
+herogamehit.png
+menu.java
+music.mid
+obj.java
+photon.png
+snd.java
+stars.jpg
+zap.wav
+]
+HaveAlxImports=0
+HaveDefs=0
+HaveImports=0
+[Icons
+herogame.png
+]
+[ImplicitRules
+]
+[Imports
+]
+Listing=0
+Options=-quiet
+OutputFileName=GalacticBlast
+[PackageProtection
+]
+RibbonPosition=0
+RunOnStartup=0
+StartupTier=7
+SystemModule=0
+Title=Galactic Blast Demo
+Type=0
+Vendor=Synthetic Dreams
+Version=1.0.0

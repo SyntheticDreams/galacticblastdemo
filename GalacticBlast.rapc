@@ -1,0 +1,10 @@
+MIDlet-Name: GalacticBlast
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: Synthetic Dreams
+MIDlet-Description: Galactic Blast Demo
+MIDlet-Jar-URL: GalacticBlast.jar
+MIDlet-Jar-Size: 0
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: Galactic Blast Demo,herogame.png,GalacticBlast
+RIM-MIDlet-Flags-1: 0

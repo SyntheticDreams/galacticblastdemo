@@ -1,0 +1,31 @@
+<loader version="1.0">
+	<application id="GalacticBlast">
+		<name >
+			Galactic Blast Demo
+		</name>
+		<description >
+			Galactic Blast Demo
+		</description>
+		<version >
+			1.0.0
+		</version>
+		<vendor >
+			Synthetic Dreams
+		</vendor>
+		<copyright >
+			Copyright (c) 2008 Synthetic Dreams
+		</copyright>
+		<fileset Java="1.33">
+			<directory >
+				
+			</directory>
+			<files >
+				GalacticBlast.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>
